@@ -14,7 +14,7 @@
 
 - 🤘 **You can find various data engineering projects on my profile**
 
-- 📝 **I regularly write articles on [blogger.com/profile/17440129620722348259](blogger.com/profile/17440129620722348259)**
+- 📝 **I regularly write articles on [(https://dataschoolbyideaxa.blogspot.com/2022/01/data-science-and-analytics-future.html)]**
 
 - 💬 **Ask me about Data Engineering and Analytics**
 
