@@ -1,3 +1,5 @@
+![logo](https://github.com/SUSHILKSONI/SUSHILKSONI/blob/main/1664712025428.jpg)
+
 <h1 align="center">Hi 👋, I'm Sushil Soni</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
@@ -18,10 +20,13 @@
 
 - 📫 **How to reach me sushilksoni147@gmail.com**
 
+
 ### Connect with me:
 [![Website](https://img.shields.io/website?label=sushilkumar.com&style=for-the-badge&url=https%3A%2F%2Fsantanukumar.netlify.app)](https://sushilkumar.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushilksoni147@gmail.com)
 [![Twitter](https://img.shields.io/badge/<SUSHILKUMAR1479>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SUSHILKUMAR1479)
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lpusushil/)
 [![Instagram](https://img.shields.io/badge/<kr_sushil_soni>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kr_sushil_soni/)
 
