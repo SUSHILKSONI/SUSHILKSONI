@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sushil Soni</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/SUSHILKSONI/SUSHILKSONI/assets/22744176/06302905-916b-4569-af0b-9cabfec57e42)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilksoni&label=Profile%20views&color=0e75b6&style=flat" alt="sushilksoni" /> </p>
 
 
