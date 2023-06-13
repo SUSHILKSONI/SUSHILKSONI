@@ -9,6 +9,8 @@
 
 - 👯 **I'm looking to collaborate and create some cool content that we can share with the community**
 
+- 🤘 **You can find various data engineering projects on my profile**
+
 - 📝 **I regularly write articles on [blogger.com/profile/17440129620722348259](blogger.com/profile/17440129620722348259)**
 
 - 💬 **Ask me about Data Engineering and Analytics**
