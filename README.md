@@ -1,28 +1,114 @@
-<h1 align="center">Hi 👋, I'm Sushil Soni</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/"
+# How To Become a Data Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilksoni&label=Profile%20views&color=0e75b6&style=flat" alt="sushilksoni" /> </p>
+### Useful articles
+- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+- [The Rise of Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
+- [The Downfall of the Data Engineer](https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b)
+- A Beginner’s Guide to Data Engineering
+  - [Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+  - [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71?source=---------5------------------)
+  - [Part III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0?source=---------4------------------)
+- [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+- How to become a Data Engineer [Ru](https://khashtamov.com/ru/data-engineer/), [En](https://khashtamov.com/en/how-to-become-a-data-engineer/)
+- Introduction to Apache Airflow [Ru](https://khashtamov.com/ru/apache-airflow-introduction/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=dataeng), [En](https://khashtamov.com/en/introduction-to-apache-airflow/)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Talks
+- [Data Engineering Principles - Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg) by Gatis Seja
+- [Functional Data Engineering - A Set of Best Practices](https://www.youtube.com/watch?v=4Spo2QRTz1k) by Maxime Beauchemin
+- [Advanced Data Engineering Patterns with Apache Airflow](https://www.youtube.com/watch?v=Fvu2oFyFCT0) by Maxime Beauchemin
+- [Creating a Data Engineering Culture](https://www.youtube.com/watch?v=VkeleGIUSM8) by Jesse Anderson
+- [Streaming 101: Hello Streaming](https://www.youtube.com/watch?v=A1YC_AC0qf8) by Josh Fischer
 
-- 🌱 I’m currently learning **Exporing Modern Data Stack (dbt, Airbyte, Databricks) Azure Cloud How to architectect better data system**
+### Algorithms & Data Structures
+- [Algorithmic Toolbox](https://stepik.org/course/217) in Russian
+- [Data Structures](https://stepik.org/course/1547) in Russian
+- [Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) on Coursera
+- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Stanford on Coursera
 
-- 👯 I’m looking to collaborate on **Data Pipeline projects**
+### SQL
+- [Comprehensive SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/) by Mode Analytics
+- [SQL Practice](https://leetcode.com/problemset/database/) on Leetcode
+- [Modern SQL](https://modern-sql.com/) a website about modern SQL syntax
+- Introduction to Window Functions [En](https://khashtamov.com/en/sql-window-functions/), [Ru](https://khashtamov.com/ru/window-functions-sql/)
 
-- 💬 Ask me about **Data Engineering**
+### Programming
+- [Scala School](https://twitter.github.io/scala_school/) by Twitter
+- [Fluent Python](https://www.amazon.com/gp/product/1491946008/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491946008&linkCode=as2&tag=adilkhash-20&linkId=8a663e966770c24874e323133cc7a005) intermediate level book about Python
+- [Intro to Scala](https://stepik.org/course/16243) in Russian on Stepik by Tinkoff Bank
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) by Kenneth Reitz & Tanya Schlusser
+- [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/) by Zed A. Shaw
 
-- 📫 How to reach me **sushilksoni147@gmail.com**
+### Databases
+- [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University
+- [Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) by Carnegie Mellon University
+- On Disk IO
+  - I. [Flavors of IO](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
+  - II. [More Flavours of IO](https://medium.com/databasss/on-disk-io-part-2-more-flavours-of-io-c945db3edb13)
+  - III. [LSM Trees](https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f)
+  - IV. [B-Trees and RUM Conjecture](https://medium.com/databasss/on-disk-storage-part-4-b-trees-30791060741)
+  - V. [Access Patterns in LSM Trees](https://medium.com/databasss/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Distributed Systems
+- [Distributed systems for fun and profit](http://book.mixu.net/distsys/) by Mikito Takada
+- [Distributed Systems](https://www.amazon.com/gp/product/1543057381/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1543057381&linkCode=as2&tag=adilkhash-20&linkId=721aedeb23c313bc46a92c134c5baafa) by Maarten van Steen & Andrew S. Tanenbaum
+- [CSE138: Distributed Systems](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) by Lindsey Kuper 
+- [CS 436: Distributed Computer Systems](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N&index=2) by University of Waterloo 
+- [MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) by Robert Morris from MIT
+- [Distributed consensus reading list](https://github.com/heidi-ann/distributed-consensus-reading-list) maintained by Heidi Howard from University of Cambridge
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Books
+- [Design Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=adilkhash-20&linkId=e7e0e096aa5761066245eb90965ac849) by Martin Kleppmann
+- [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=adilkhash-20&linkId=74742875db503b1a899ca35159749067) by Thomas Cormen
+- [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.com/gp/product/1118530802/ref=as_li_tl?ie=UTF8&tag=adilkhash-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118530802&linkId=6ca865e8e9817dca57718bdbe5e52cd5)
+- [Star Schema The Complete Reference](https://www.amazon.com/gp/product/0071744320/ref=as_li_tl?ie=UTF8&tag=adilkhash-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0071744320&linkId=2abf9ef1d327071f74f59c3659ed6223)
+- [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/gp/product/1492040347/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1492040347&linkCode=as2&tag=adilkhash-20&linkId=4a23dead1aeb11fd4debffb36487aa14)
+- [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/gp/product/1491983876/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491983876&linkCode=as2&tag=adilkhash-20&linkId=9869047f1ac02b597d8a0e67fd29ad68)
+- [A Philosophy of Software Design](https://www.amazon.com/gp/product/1732102201/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1732102201&linkCode=as2&tag=adilkhash-20&linkId=b020fab52fa5f1fed2191ea12e824468)
+- [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) by Josh Fischer & Ning Wang
+- [Guide to High Performance Distributed Computing](https://www.amazon.com/Guide-High-Performance-Distributed-Computing/dp/3319134965) by K.G. Srinivasa & Anil Kumar Muppalla
+- [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) by Bas P. Harenslak and Julian Rutger de Ruiter
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilksoni&show_icons=true&locale=en&layout=compact" alt="sushilksoni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilksoni&show_icons=true&locale=en" alt="sushilksoni" /></p>
+### Courses
+- [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
+- [Data Engineer Nanodegree](https://udacity.com/course/data-engineer-nanodegree--nd027) by Udacity
+- [Data Engineering with Python](https://www.datacamp.com/tracks/data-engineer-with-python) by DataCamp
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilksoni&" alt="sushilksoni" /></p>
+### Blogs
+- [Martin Kleppmann](https://martin.kleppmann.com/) author of Designing Data-Intensive Application
+- [BaseDS](https://medium.com/baseds) by Vaidehi Joshi about Distributed Systems
+
+### Tools
+- [Apache Airflow](https://airflow.apache.org/) is a platform to programmatically author, schedule and monitor workflows in Python
+- [Apache Spark](https://spark.apache.org/) is a unified analytics engine for large-scale data processing
+- [Apache Kafka](https://kafka.apache.org/) is a distributed streaming platform
+- [Luigi](https://luigi.readthedocs.io) is a Python package that helps you build complex pipelines of batch jobs. 
+- [Dagster.io](https://docs.dagster.io) is a system for building modern data applications.
+- [Prefect](https://prefect.io) includes everything you need to create and run data applications.
+- [Metaflow](https://github.com/Netflix/metaflow) build and manage real-life data science projects with ease
+- [lakeFS](https://github.com/treeverse/lakeFS) build repeatable, atomic and versioned data lake operations – from complex ETL jobs to data science and analytics.
+
+### Cloud Platforms
+- [Amazon Web Services](https://aws.amazon.com/)
+- [Google Cloud Platform](https://cloud.google.com/gcp/)
+- [Microsoft Azure](https://azure.microsoft.com)
+- [Yandex Cloud](https://cloud.yandex.ru/)
+- [DigitalOcean](https://m.do.co/c/e92056c9e79b)
+- [IBM Cloud](https://www.ibm.com/cloud/)
+
+### Communities
+- [data Engineering](https://t.me/dataeng_chat) - telegram chat about data engineering
+- [Data Engineering Subreddit](https://www.reddit.com/r/dataengineering/) - subreddit about data engineering
+
+### Data Engineering Jobs
+- [Data Engineering jobs](http://bit.ly/2vk0R86)
+
+### Other
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+
+### Newsletters & Digests
+- [DataEng Telegram channel](https://t.me/dataeng) - Telegram channel about data engineering (rus/eng)
+- [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
+- [SF Data Weekly](http://weekly.sfdata.io) - A weekly email of useful links for people interested in building data platforms
+- [Data Elixir](https://dataelixir.com/) - Data Elixir is an email newsletter that keeps you on top of the tools and trends in Data Science.
+- [Data Governance, Privacy and Security](https://dbadmin.news/) - DbAdmin News is a news letter on the technology behind Data Governance, Security and Privacy
